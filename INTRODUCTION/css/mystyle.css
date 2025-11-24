@@ -1,13 +1,13 @@
 body {
-  background-color: lightpink;
+  background-color: rgb(250, 167, 180);
 }
 
 h1 {
-  color: rgb(117, 4, 117);
+  color: rgb(0, 0, 0);
   margin-left: 20px;
 }
 
 p {
-  color: palevioletred;
+  color: rgb(156, 14, 61);
 }
 
