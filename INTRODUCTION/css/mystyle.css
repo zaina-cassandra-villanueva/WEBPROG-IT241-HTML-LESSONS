@@ -1,8 +1,14 @@
 body {
-  background-color: lightblue;
+  background-color: lightpink;
 }
 
 h1 {
-  color: navy;
+  color: lightpurple;
   margin-left: 20px;
+
+}
+
+p {
+  text-align: center;
+  color: darkpink;
 }
